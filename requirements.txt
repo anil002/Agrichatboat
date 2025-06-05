@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+pillow
+PyPDF2
+requests
+beautifulsoup4
+pandas
+matplotlib
+seaborn
+plotly
+python-dotenv
+feedparser
+scikit-learn
+numpy
